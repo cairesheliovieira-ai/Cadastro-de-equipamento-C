@@ -1,0 +1,3 @@
+Nome: Notebook Dell Inspiron | Codigo: EQ-001 | Local: Laboratorio 1
+Nome: Projetor Epson | Codigo: EQ-002 | Local: Laboratorio 2
+Nome: Roteador TP-Link | Codigo: EQ-003 | Local: Sala de Servidores
